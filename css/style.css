@@ -17,4 +17,16 @@ body {
 	padding: 0 45px 20px;
 }
 
-/* Write all remaining styles here */
+#main-header {
+	color: #D3D3D3;
+	border-bottom-style: solid;
+	border-color: #D3D3D3;
+	
+	
+}
+
+p, a, h2, h3 {
+	color: #D3D3D3;
+	
+	
+}
