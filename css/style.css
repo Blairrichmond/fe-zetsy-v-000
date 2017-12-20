@@ -37,3 +37,13 @@ p, a, h2, h3 {
 	border-style: solid;
 	border-color: #D3D3D3;
 }
+
+.press {
+	border-width: thick;
+	border-style: solid;
+	border-color: #D3D3D3;
+}
+
+.footer {
+	text-align: left;
+}
